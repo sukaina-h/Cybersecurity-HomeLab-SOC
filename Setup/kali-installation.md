@@ -7,12 +7,12 @@
 Used Kali Linux pre-built VirtualBox image
 
 ## Steps
-1- Download Kali Linux VirtualBox image
-2- Extract the downloaded archive
-3- Open VirtualBox
-4- Click Machine → Open
-5- Select the .vbox file
-6- Import the VM
+- Download Kali Linux VirtualBox image
+- Extract the downloaded archive
+- Open VirtualBox
+- Click Machine → Open
+- Select the .vbox file
+- Import the VM
 
 ## Verification
 - Kali Linux boots successfully
