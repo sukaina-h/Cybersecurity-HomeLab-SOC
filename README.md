@@ -53,7 +53,6 @@ This repository documents everything from initial setup to future attack simulat
 - Simulate SOC incidents (brute force, suspicious PowerShell)
 
 ## Learning Outcome
-- This project demonstrates:
 - Virtualization skills
 - Endpoint monitoring fundamentals
 - SOC analyst mindset
