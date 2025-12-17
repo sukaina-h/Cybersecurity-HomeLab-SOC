@@ -30,9 +30,9 @@ This repository documents everything from initial setup to future attack simulat
 
 ### Lab Architecture (Current)
 | Host Machine
-├── VirtualBox
-│   ├── Kali Linux VM
-│   └── Windows-SOC-Lab VM
+  ├── VirtualBox
+  ├── Kali Linux VM
+  └── Windows-SOC-Lab VM
 
 ## Step-by-Step Lab Setup
 
