@@ -1,4 +1,5 @@
 # Cybersecurity Home Lab (SOC Analyst Beginner Project)
+
 ## 📌 Project Overview
 This project documents the step-by-step creation of a Cybersecurity Home Lab designed to simulate real-world SOC (Security Operations Center) analyst tasks.
 
@@ -29,10 +30,10 @@ This repository documents everything from initial setup to future attack simulat
 - Strategy: Run one VM at a time for stability
 
 ### Lab Architecture (Current)
-| Host Machine
-  ├── VirtualBox
-  ├── Kali Linux VM
-  └── Windows-SOC-Lab VM
+- Host Machine
+- VirtualBox
+- Kali Linux VM
+- Windows-SOC-Lab VM
 
 ## Step-by-Step Lab Setup
 
